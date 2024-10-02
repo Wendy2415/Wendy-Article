@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="palette1">#201E43</color>
+    <color name="palette2">#134B70</color>
+    <color name="palette3">#508C9B</color>
+    <color name="palette4">#EEEFFF</color>
+    <color name="darkgray">#FF888888</color>
+    <color name="gray">#EEEEEE</color>
+    <color name="dgray">#333333</color>
+    <color name="palette5">#B7E0E5</color>
+    <color name="palette6">#3A375D</color>
+</resources>

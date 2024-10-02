@@ -1,0 +1,97 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WendyArticle" parent="Theme.Material3.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/palette3</item>
+        <item name="colorOnPrimary">@color/palette4</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/palette4</item>
+        <item name="colorOnSecondary">@color/darkgray</item>
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/palette4</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.WendyArticle</item>
+    </style>
+
+
+    <style name="Card">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+    </style>
+
+
+    <style name="Photo">
+        <item name="android:layout_width">98dp</item>
+        <item name="android:layout_height">118dp</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="cornerRadius">4dp</item>
+    </style>
+
+    <style name="Category">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_toEndOf">@id/img_item_photo</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Title">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">59dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginEnd">2dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">5</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/textlines</item>
+        <item name="android:padding">3dp</item>
+    </style>
+
+    <style name="Date">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Rate">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:maxLines">5</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">textEnd</item>
+    </style>
+
+
+    <style name="bgtext">
+        <item name="android:background">@color/palette4</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
+    <style name="bgtext2">
+        <item name="android:background">@color/palette5</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
+
+    <style name="Theme.WendyArticle" parent="Base.Theme.WendyArticle" />
+</resources>

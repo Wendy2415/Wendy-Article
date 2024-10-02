@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Wendy-Article</string>
+    <string name="category">Kategori</string>
+    <string name="title">Judul</string>
+    <string name="date">Tanggal</string>
+    <string name="rate">Rating</string>
+    <string name="description">Deskripsi</string>
+    <string name="profile">" "</string>
+    <string name="myName">Wendy</string>
+    <string name="myEmail">2415Wendy@gmail.com</string>
+    <string name="w_article">W-Article</string>
+    <string name="share">Share</string>
+    <string name="home">home</string>
+    <string-array name="data_category">
+        <item>Education</item>
+        <item>Sport</item>
+        <item>Sport</item>
+        <item>Health</item>
+        <item>Health</item>
+        <item>Sport</item>
+        <item>Economy</item>
+        <item>Sport</item>
+        <item>Economy</item>
+        <item>Health</item>
+    </string-array>
+    <string-array name="data_title">
+        <item>Orangtua Wajib Tahu, Ini Perbedaan IQ, EQ, dan SQ yang Berpengaruh terhadap Perkembangan Remaja</item>
+        <item>Bongkar Pasang Ganda Putra Leo/Bagas dan Daniel/Fikri </item>
+        <item>AFC Champions League 2: Persib Tumbang 0-1 dari Port FC</item>
+        <item>Fenomena Ketindihan saat Tidur, Sleep Paralysis atau Beneran Mistis?</item>
+        <item>Temuan Praktik Nakal RS ke BPJS Kesehatan: Pasien Bodong sampai Overbilling</item>
+        <item>China Open 2024: Fikri/Daniel Depak Unggulan Teratas, Lolos ke 8 Besar</item>
+        <item>Pentingnya Dana Darurat untuk Menghadapi Keadaan Tak Terduga</item>
+        <item>Ini Target Jules Kounde Bersama Barcelona di Liga Champions</item>
+        <item>Tupperware Kini Menghadapi Gulung Tikar: Digilas dengan Wadah yang Lebih Murah</item>
+        <item>6 Hal Sepele yang Bisa Menyebabkan Gula Darah Meroket, Termasuk Jarang Olahraga</item>
+    </string-array>
+    <string-array name="data_date">
+        <item>12 Agustus 2024</item>
+        <item>16 September 2024</item>
+        <item>3 Agustus 2024</item>
+        <item>21 Agustus 2024</item>
+        <item>7 September 2024</item>
+        <item>14 September 2024</item>
+        <item>9 Agustus 2024</item>
+        <item>19 Agustus 2024</item>
+        <item>23 September 2024</item>
+        <item>30 Agustus 2024</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://asset.kompas.com/crops/idS9o-iSYgrWLbVPebp0MVv-etY=/0x0:1000x667/750x500/data/photo/2024/09/09/66dea1d6bcfef.jpg</item>
+        <item>https://assets.kompasiana.com/items/album/2024/09/19/leobagas0001-66eb647aed64151e8f1603c5.jpg?t=o&amp;v=740&amp;x=416</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2024/09/19/beckham-putra-asnawi-mangkualam_169.jpeg?w=700&amp;q=90</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2017/10/12/32dda618-a2be-4728-9d79-85d8b0e111e9_169.jpg?w=700&amp;q=90</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2018/03/09/9723c50f-a078-4d8b-9b9d-efc2ad29c407_169.jpeg?w=700&amp;q=90</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2024/08/23/daniel-marthinmuhammad-shohibul-fikri-japan-open-2024-7_169.jpeg?w=700&amp;q=90</item>
+        <item>https://assets.kompasiana.com/items/album/2024/09/19/woman-holding-jar-with-money-66ec146634777c47212fe0b2.jpg?t=o&amp;v=740&amp;x=416</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2023/05/24/jules-kounde-barcelona-laliga-liga-spanyol_169.jpeg?w=700&amp;q=90</item>
+        <item>https://assets-a3.kompasiana.com/items/album/2024/09/19/promo-tupperware-422956-600-100000-66ebdab0c925c459af278212.jpg?t=o&amp;v=410&amp;x=225</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2022/09/20/ilustrasi-cek-gula-darah_169.jpeg?w=700&amp;q=90</item>
+    </string-array>
+    <string-array name="data_rate">
+        <item>4.5/5</item>
+        <item>4.3/5</item>
+        <item>4.7/5</item>
+        <item>3.9/5</item>
+        <item>4.1/5</item>
+        <item>4.6/5</item>
+        <item>3.8/5</item>
+        <item>4.2/5</item>
+        <item>4.8/5</item>
+        <item>4.4/5</item>
+    </string-array>
+    <string-array name="data_desc">
+        <item>Masa remaja merupakan periode penting dalam menunjang kesuksesan anak. Pada fase ini, bakat dan potensi anak mulai terlihat. Oleh karena itu, orangtua punya peran krusial dalam mengarahkan anak pada jalur yang tepat untuk mengoptimalkan potensi mereka. Salah satu yang perlu diketahui orangtua adalah intelligence quotient (IQ), emotional quotient (EQ), dan social quotient (SQ). Pengetahuan ketiga aspek kecerdasan ini pada anak bisa membantu orangtua dalam mendidik mereka.\n\nAmerican Psychological Association (APA) mendefinisikan IQ sebagai ukuran standar tingkat kecerdasan individu berdasarkan tes psikologis. Tes IQ dirancang khusus untuk mengukur kemampuan kognitif seseorang, seperti berpikir logis, pemecahan masalah, pemahaman informasi abstrak, serta kemampuan belajar.\n\nLaman Psychology Today mendefinisikan EQ sebagai kemampuan mengidentifikasi dan mengelola emosi diri sendiri serta emosi orang lain. Teori EQ diperkenalkan pertama kali oleh Peter Salovey dan John D. Mayer pada 1990-an. Selanjutnya, teori ini dikenalkan kepada masyarakat luas oleh Daniel Goleman.\n\nSQ identik dengan kecerdasan sosial (social intelligence) atau keterampilan sosial (social skill). Laman psychologs.com mendefinisikan SQ sebagai kemampuan berinteraksi dan berkomunikasi dengan empati dan asertif. Bentuk kecerdasan sosial dalam keseharian meliputi keterampilan berkomunikasi verbal dan nonverbal, memahami peran dan normal sosial, berempati pada orang lain, serta keterampilan membangun dan mempertahankan hubungan.</item>
+        <item>Fenomena bongkar pasangan pemain ganda memang bukan hal yang baru di bulu tangkis Indonesia. Di masa silam strategi bongkar pasang pemain seperti ini pernah menghasilkan pasangan tangguh peraih medali emas Olimpiade 2008 Hendra Setiawan dan Mohammad Ahsan.\n\nJuga hasil dari bongkar pasang pula terlahir ganda putra tangguh kita "The Minions" Kevin Sanjaya Sukamuljo dan Marcus Fernaldi Gideon yang disegani di dunia di era 2015 keatas. Demikian pula pasangan Fajar Alfian dan Muhammad Rian Ardianto juara All England 2023 dan 2024.\n\nDan eksperimen paling gres PBSI (Persatuan Bulu Tangkis Seluruh Indonesia) adalah dibongkarnya pasangan juara All England 2022 Bagas Maulana dan Muhammad Shohibul Fikri, dipecah dan dijodohkan menjadi pasangan baru Leo/Bagas dan Daniel/Fikri.\n\nLeo Rolly Carnando (23 tahun, tinggi tubuh 1.71 m peringkat tertinggi 9 dunia bulan Mei 2023) dan Daniel Marthin (23 tahun, tinggi badan 1.82 m peringkat tertinggi 9 dunia per Mei 2023) adalah pasangan muda yang tengah naik daun. Melejit pertama sebagai pasangan juara Yunior Dunia (2019) mengalahkan ganda China Di Zijian/Wang Chang di final. Mereka juga juara Yunior Asia.\n\n</item>
+        <item>Bandung - Persib tumbang 0–1 dari Port FC dalam matchday pertama babak penyisihan grup AFC Champions League 2 musim ini. Pertahanan Maung Bandung jebol di pengujung laga.\n\nBermain di Jalak Harupat, Kamis (19/9/2024), Port FC tampil lebih dominan di babak pertama, namun enam percobaan yang mereka lepaskan tak ada yang mengarah tepat ke gawang Persib yang dijaga Kevin Ray Mendoza.\n\nPersib pun demikian. Mereka kesulitan membongkar pertahanan tim tamu. Tembakan Edo Febriansah pada menit ke-13 melambung di atas gawang, sama halnya dengan tembakan Ryan Kurnia di menit ke-25. Skor 0-0 menutup babak pertama.\n\nPada babak kedua, Port FC masih unggul dalam penguasaan bola, namun Persib bukan tanpa perlawanan. Beckham Putra berhasil melepaskan tembakan tepat sasaran pada menit ke-70, namun sukses ditepis kiper Worawut Srisupha.\n\nTak mau kalah, Port FC membalas semenit kemudian via tembakan keras Bordin Phala ke sudut kanan gawang Persib, namun Kevin dengan gemilang menepisnya. Baru di menit ke-90 mereka sukses menjebol tuan rumah.</item>
+        <item>Pernahkah mengalami, sedang enak-enaknya tidur mendadak terbangun tapi sama sekali tidak bisa menggerakkan tubuh? Orang awam menyebut fenomena mistis  ini dengan istilah ketindihan jin, yang lantas dijelaskan oleh ilmu pengetahuan sebagai sleep paralysis.\n\nPraktisi kesehatan tidur dr Daniel Thomas Suryadisastra, SpN, RPSGT menjelaskan, apa yang dipahami orang awam sebagai ketindihan adalah sleep paralysis yang terjadi ketika seseorang berada fase tidur REM (Rapid Eye Movement). Ini adalah fase terdalam dalam tahapan tidur, ketika mimpi dimungkinkan untuk terjadi.\n\n"Jadi waktu otot relaksasi maksimal, kita bangun makanya kita ngga bisa gerak. Kadang dibarengi dengan halusinasi," jelas dr Daniel saat ditemui detikcom di Tangerang, Kamis (19/9/2024).\n\nMenurut dr Daniel, sleep paralysis relatif tidak berbahaya. Kalaupun disebut sebagai penyakit, kondisi ini digolongkan sebagai gangguan tidur parasomnia."Biasanya mengganggu aktivitas sehari-hari karena konsentrasinya terganggu, kualitas tidurnya terganggu," jelas dr Daniel.\n\nSoal kesan mistis seperti dirasakan banyak orang yang mengalami ketindihan, dr Daniel memastikan sleep paralysis umumnya tidak berlangsung lama. Beberapa saat setelah terbangun, kondisi tubuh akan kembali normal."Nggak usah panik, Rapid Eye Movement (REM) hilang, maka bakal hilang sendiri, rileks, santai saja," tandasnya.</item>
+        <item>BPJS Kesehatan menemukan adanya dugaan fraud atau kecurangan pada fasilitas pelayanan kesehatan (fasyankes) yang terafiliasi dengan Program Jaminan Kesehatan Nasional (JKN). Total kerugian negara akibat dugaan fraud itu disebut mencapai puluhan miliar.\n\nDirektur Utama BPJS Kesehatan Prof Ali Ghufron Mukti menjelaskan kecurangan tersering yang ditemukan terdiri atas berbagai modus, seperti excessive usage atau penggunaan untuk hal yang tidak perlu, overbilling sampai phantom billing, klaim palsu tanpa disertai tindakan atau pasien bodong.\n\n"Kita juga akan membentuk whistleblowing system, jadi masyarakat kalau setelah pelayanan bisa memberi rating ke rumah sakit. Nanti (fasilitas kesehatan) yang bagus kita bisa beri penghargaan. Tidak cuma itu, pasien juga bisa lapor, misal ada (RS) yang klaim ventilator tapi dia (pasien) nggak di ventilator. Begitu model-modelnya," tutur Ali Ghufron saat ditemui di Jakarta Pusat, Kamis (19/9/2024).</item>
+        <item>Pasangan Muhammad Shohibul Fikri/Daniel Marthin sukses mendepak unggulan teratas Liang Weikeng/Wang Chang dalam duel tiga gim. Fikri/Daniel berhak maju ke perempatfinal China Open 2024.\n\nBertanding di Lapangan 1 Olympic Sports Center Gymnasium pada Kamis (19/9), Fikri/Daniel memenangi gim pembuka lalu kehilangan gim kedua. Fikri/Daniel akhirnya menang dengan skor akhir 21-19, 18-21, 21-17.\n\nFikri/Daniel tinggal menunggu lawan di babak berikutnya. Adalah pemenang antara unggulan delapan Rasmus Kjaer/Frederik Sogaard vs Ben Lane/Shane Verdy.</item>
+        <item>Dana darurat adalah salah satu komponen penting dalam perencanaan keuangan keluarga yang sering kali terabaikan.\n\nDalam kehidupan sehari-hari, kita sering dihadapkan pada berbagai situasi yang tidak terduga, seperti kehilangan pekerjaan, kecelakaan, atau penyakit yang membutuhkan biaya medis.Tanpa persiapan yang matang, situasi tersebut dapat menyebabkan masalah keuangan serius yang berujung pada ketidakstabilan dalam rumah tangga.\n\nOleh karena itu, memiliki dana darurat menjadi kunci untuk menghadapi situasi semacam itu dengan tenang dan terkendali.Dana darurat pada dasarnya merupakan simpanan khusus yang disiapkan untuk menghadapi keadaan mendesak.</item>
+        <item>Barcelona akan memulai petualangan di Liga Champions dini hari nanti. Jules Kounde mengungkap target yang hendak diraih bersama Los Cules.\n\nLiga Champions menggunakan format baru mulai musim ini. Sebanyak 36 tim tak dibagi ke dalam beberapa grup, hanya satu saja.Tapi, tim-tim yang berlaga tak akan menghadapi setiap tim lain. Mereka hanya menjalani delapan pertandingan. Lawan-lawan yang dihadapi berdasar drawing yang sudah digelar beberapa waktu lalu.\n\nKendati format sudah berubah, Kounde menegaskan tujuan Barcelona masih sama seperti sebelumnya. Tim asal Catalan itu berambisi menjadi juara, atau setidaknya dari pencapaian melaju ke perempatfinal musim lalu.\n\n"Tujuan klub ini adalah untuk memenangi kompetisi yang anda ikuti. Kami tahu bahwa ada banyak tim dengan level top dan ini sangat sulit, dengan format baru, dengan pertandingan lebih banyak," kata Kounde seperti dikabarkan oleh Marca.</item>
+        <item>Tupperware, sebuah merek ikonik yang sudah akrab di telinga banyak orang di seluruh dunia, kini berada di ujung tanduk setelah hampir delapan dekade beroperasi. \n\nPerusahaan yang dulunya dianggap sebagai simbol inovasi rumah tangga dan gerakan sosial perempuan, terutama melalui "pesta Tupperware", kini menghadapi tantangan besar yang mengancam kelangsungan bisnisnya. \n\nSeiring dengan perkembangan zaman, Tupperware tampaknya semakin kesulitan mempertahankan dominasinya di pasar produk plastik penyimpanan makanan.\n\nMeskipun pernah menjadi simbol budaya pop global, Tupperware saat ini berada di bawah ancaman gulung tikar. </item>
+        <item>Kadar gula darah tinggi kerap dikaitkan dengan kebiasaan mengonsumsi makanan atau minuman yang manis. Namun sebenarnya, terdapat sejumlah hal lain yang juga menjadi penyebab gula darah naik.\n\nNormalnya, gula darah normal pada orang dewasa adalah di bawah 100 mg/dL untuk gula darah puasa dan di bawah 140 mg/dL untuk gula darah setelah makan. Kadar gula darah perlu dijaga agar selalu berada di rentang normal. Hal ini bertujuan agar terhindar dari dampak kesehatan jangka pendek maupun jangka panjang.\n\n"Dalam keseharian, seseorang akan merasa lebih baik ketika gula darahnya ada di rentang sehat," jelas Lynn Grieger, RDN, CDCES, seorang personal trainer di Prescott, Arizona, dikutip dari EverydayHealth.\n\n"Sedangkan dalam jangka panjang, ini adalah hal terbaik yang bisa dilakukan untuk mencegah terjadinya kompikasi diabetes," tambahnya.</item>
+    </string-array>
+</resources>
